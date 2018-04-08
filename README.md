@@ -1,4 +1,5 @@
-# Testing Django
+# Learning Django, seriously
+
 
 Obbey the testing Goat!
 
