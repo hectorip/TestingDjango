@@ -17,3 +17,4 @@ The resources I will be using are:
 Following the exercises of TDD with Python Book: 
 
 Functional and unit tests, but adapting it to my own style, learned from other places.
+
