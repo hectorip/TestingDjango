@@ -1,8 +1,8 @@
 # Learning Django, seriously
 
-I've worked with python like an animal.
+I've worked with python like animals do.
 
-I've learned it in the wild with no previous or formal preparation on the language, and I've started programming for the web in Python with this very little serious of formal prepartion.
+I've learned Python in the wild with no previous or formal preparation on the language, and I've started programming for the web in Python with this very little serious of formal prepartion.
 
 Later, I've read some reosurces on Python to train me in it. Then I started working in Django even without reading the introductory tutorial programming the projects and searching for the answers in Google (almost always I ended in StackOverflow).
 
