@@ -13,6 +13,7 @@ I think it's time to me to study some formal and well planned resources about ho
 
 The resources I will be using are:
 
-- [The official tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01/)
-- [Obbey the testing Goat! (TDD with Python)](https://www.obeythetestinggoat.com/pages/book.html#toc)
-- [Two Scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11)
+1. [The official tutorial](https://docs.djangoproject.com/en/2.0/intro/tutorial01/). This is the basic reource for learning Django, 
+it teaches all you need to start developing full-fledged applications in Django. It assumes you already know about web development and Python.
+2. [Obbey the testing Goat! (TDD with Python)](https://www.obeythetestinggoat.com/pages/book.html#toc)
+3. [Two Scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11)
