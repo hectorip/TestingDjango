@@ -1,6 +1,6 @@
 # Learning Django, seriously
 
-I've worked with python like animals do.
+I've been working with python like animals do.
 
 I've learned Python in the wild with no previous or formal preparation on the language (although I already knew 
 how to program in another languages), and I've started programming for the web in Python with this very little
