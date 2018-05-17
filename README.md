@@ -9,7 +9,7 @@ Later, I've read some reosurces on Python to train me in it. Then I started work
 without reading the introductory tutorial, programming the projects and searching for the answers 
 in Google (I ended almost always in StackOverflow).
 
-I think it's time to me to study some formal and well planned resources about how to code Django the right way.
+I think it's time to study some formal and well planned resources about how to code Django the right way.
 
 The resources I will be using are:
 
