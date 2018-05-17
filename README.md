@@ -20,4 +20,8 @@ Django, it teaches all you need to start developing full-fledged applications in
 
 Also if you feel you need more preparation in python itself I could recommend you a few resources:
 
-1. [Learn Python the Hard Way](https://learnpythonthehardway.org/). Is a free book with a paid option you could use to learn and ingrain the basics of the language.
+1. [Learn Python the Hard Way](https://learnpythonthehardway.org/). It's a free book with a paid option you could use to learn and ingrain the basics of the language.
+
+2. [Writing Idiomatic Python](https://jeffknupp.com/writing-idiomatic-python-ebook/). Some advise about how to write pythonic code. Excellent book.
+
+3. [Fluent Python](http://shop.oreilly.com/product/0636920032519.do). Extensive guide about how to write pythonic code.
